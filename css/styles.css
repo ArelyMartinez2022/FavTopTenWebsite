@@ -12,7 +12,7 @@ h1{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 120vh;
+    
 }
 
 .otherPage {
@@ -86,7 +86,7 @@ button{
     display: grid;
     border: 1px solid black;
     height: auto;
-    width: 700px;
+    
     color: white;
     font-size: 40px;
     font-family: 'VT323', monospace;
