@@ -34,15 +34,12 @@ h1{
 
 img {
     width: 200px;
+    padding-right: 2rem;
     
     
 }
 
-.Textt{
-padding-left: 7rem;
 
-text-shadow: 2px 2px 5px black;
-}
 
 h2{
     font-family: 'VT323', monospace;
