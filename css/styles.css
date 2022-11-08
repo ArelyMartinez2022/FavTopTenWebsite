@@ -2,7 +2,7 @@
 h1{
     font-family: 'VT323', monospace;
     color: white;  
-    font-size: 80px;  
+    font-size: 90px;  
 }
 .mainPage {
     background: url(../assets/10998922.jpg) no-repeat center center fixed;
@@ -11,7 +11,7 @@ h1{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 110vh;
+    height: 120vh;
 }
 
 .otherPage {
