@@ -14,6 +14,16 @@ h1{
     height: 110vh;
 }
 
+.otherPage {
+    background: url(../assets/4003568.webp) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 110vh;
+}
+
 .bot{
     text-align: center;
     font-family: 'VT323', monospace;
@@ -36,6 +46,7 @@ button{
     background-color: transparent;
     color: white;
     border-color: transparent;
+    font-size: medium;
 }
 
 .buttonIndex {
@@ -63,14 +74,13 @@ button{
     color: white;
     font-size: 30px;
     font-family: 'VT323', monospace;
-    box-shadow: 10px 10px darkorchid;
+    box-shadow: 10px 10px rgb(135, 179, 203);
     text-shadow: 2px 2px 5px black;
  
     height: auto;
     padding: 20px;
     /* margin: 15px 0px 15px 350px; */
     background-color: rgba(0, 0, 0, .7);
-    background-image: url("../images/alien.png");
     background-repeat: no-repeat;
     background-size: 10%;
     background-position-x: 450px;
@@ -94,28 +104,7 @@ button{
 body{
     padding: 5rem;
 }
-.subtitle1 {
-    justify-content: center;
-    display: grid;
-    border: 1px solid black;
-    height: auto;
-    width: 500px;
-    color: white;
-    font-size: 30px;
-    font-family: 'VT323', monospace;
-    box-shadow: 10px 10px darkorchid;
-    text-shadow: 2px 2px 5px black;
- 
-    height: auto;
-    padding: 20px;
-    /* margin: 15px 0px 15px 350px; */
-    background-color: rgba(0, 0, 0, .7);
-    background-image: url("../images/alien.png");
-    background-repeat: no-repeat;
-    background-size: 10%;
-    background-position-x: 450px;
-    background-position-y: 15px;
-}
+
 .btn-secondary{
     background-color: rgb(203, 203, 73);
 }
