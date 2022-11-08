@@ -46,7 +46,7 @@ button{
     background-color: transparent;
     color: white;
     border-color: transparent;
-    font-size: medium;
+    font-size: 27px;
 }
 
 .buttonIndex {
@@ -72,7 +72,7 @@ button{
     height: auto;
     width: 700px;
     color: white;
-    font-size: 30px;
+    font-size: 40px;
     font-family: 'VT323', monospace;
     box-shadow: 10px 10px rgb(135, 179, 203);
     text-shadow: 2px 2px 5px black;
@@ -108,3 +108,5 @@ body{
 .btn-secondary{
     background-color: rgb(203, 203, 73);
 }
+
+/*  ULISES  ULISES ULISES ULISES ULISES ULISES ULISES ULISES ULISES ULISES ULISES ULISES ULISES */
