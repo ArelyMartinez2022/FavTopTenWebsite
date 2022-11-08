@@ -33,8 +33,17 @@ h1{
 
 img {
     width: 200px;
-    padding: 1rem;
+    border-color: black;
+    border: 5px solid black;"
+    border-spacing: 2rem;
+    
 }
+
+.Textt{
+padding-left: 7rem;
+text-align: center;
+}
+
 h2{
     font-family: 'VT323', monospace;
 }
@@ -67,6 +76,7 @@ button{
 
 .subtitle1 {
     justify-content: center;
+    text-align: start;
     display: grid;
     border: 1px solid black;
     height: auto;
