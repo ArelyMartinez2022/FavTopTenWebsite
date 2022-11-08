@@ -22,7 +22,7 @@ h1{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 130vh;
+   
 }
 
 .bot{
@@ -39,16 +39,20 @@ img {
     
 }
 
+#staticBackdropLabel{
+    color: black;
+   font-size:large;
+}
+
 
 
 h2{
     font-family: 'VT323', monospace;
-    text-shadow: 2px 2px 5px black;
 }
 button{
     font-family: 'VT323', monospace;
     background-color: clear;
-    text-shadow: 2px 2px 5px black;
+    text-shadow: 2px 2px 2px black;
 }
 .btn-primary{
     background-color: transparent;
