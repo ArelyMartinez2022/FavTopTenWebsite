@@ -3,6 +3,7 @@ h1{
     font-family: 'VT323', monospace;
     color: white;  
     font-size: 90px;  
+    text-shadow: 2px 2px 5px black;
 }
 .mainPage {
     background: url(../assets/10998922.jpg) no-repeat center center fixed;
@@ -42,20 +43,25 @@ img {
 .Textt{
 padding-left: 7rem;
 text-align: center;
+text-shadow: 2px 2px 5px black;
 }
 
 h2{
     font-family: 'VT323', monospace;
+    text-shadow: 2px 2px 5px black;
 }
 button{
     font-family: 'VT323', monospace;
     background-color: clear;
+    text-shadow: 2px 2px 5px black;
 }
 .btn-primary{
     background-color: transparent;
     color: white;
     border-color: transparent;
     font-size: 27px;
+    text-shadow: 2px 2px 5px black;
+
 }
 
 .buttonIndex {
