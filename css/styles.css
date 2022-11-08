@@ -46,6 +46,7 @@ button{
     background-color: transparent;
     color: white;
     border-color: transparent;
+    font-size: medium;
 }
 
 .buttonIndex {
@@ -73,14 +74,13 @@ button{
     color: white;
     font-size: 30px;
     font-family: 'VT323', monospace;
-    box-shadow: 10px 10px darkblue;
+    box-shadow: 10px 10px rgb(135, 179, 203);
     text-shadow: 2px 2px 5px black;
  
     height: auto;
     padding: 20px;
     /* margin: 15px 0px 15px 350px; */
     background-color: rgba(0, 0, 0, .7);
-    background-image: url("../images/alien.png");
     background-repeat: no-repeat;
     background-size: 10%;
     background-position-x: 450px;
