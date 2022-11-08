@@ -34,15 +34,13 @@ h1{
 
 img {
     width: 200px;
-    border-color: black;
-    border: 5px solid black;"
-    border-spacing: 2rem;
+    
     
 }
 
 .Textt{
 padding-left: 7rem;
-text-align: center;
+
 text-shadow: 2px 2px 5px black;
 }
 
