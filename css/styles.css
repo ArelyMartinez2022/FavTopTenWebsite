@@ -49,7 +49,12 @@ h1{
 img {
     width: 200px;
     padding-right: 2rem;
+    border-radius: 12px;
     
+}
+
+.modal-body{
+    padding: 2rem;
 }
 
 #staticBackdropLabel{
@@ -61,9 +66,9 @@ h3{
 }
 
 
-
 h2{
     font-family: 'VT323', monospace;
+    font-size: 26px;
 }
 button{
     font-family: 'VT323', monospace;
@@ -78,6 +83,7 @@ button{
     text-shadow: 2px 2px 5px black;
 
 }
+
 
 .buttonIndex {
     background-color: rgb(166, 45, 110); /* Green */
@@ -138,6 +144,11 @@ body{
 
 .btn-secondary{
     background-color: rgb(203, 203, 73);
+}
+
+.Textt{
+   
+
 }
 
 /*  ULISES  ULISES ULISES ULISES ULISES ULISES ULISES ULISES ULISES ULISES ULISES ULISES ULISES */
