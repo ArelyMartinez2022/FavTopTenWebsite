@@ -42,7 +42,7 @@ h1{
     display: inline-block;
     box-shadow: 10px 10px black;
     font-size: 16px;
-    font-family: 'Orbitron', sans-serif;
+    font-family: 'VT323', monospace;
     text-shadow: 2px 2px 5px black;
 }
 
@@ -50,12 +50,14 @@ img {
     width: 200px;
     padding-right: 2rem;
     
-    
 }
 
 #staticBackdropLabel{
     color: black;
    font-size:large;
+}
+h3{
+    font-family: 'VT323', monospace;
 }
 
 
@@ -66,7 +68,7 @@ h2{
 button{
     font-family: 'VT323', monospace;
     background-color: clear;
-    text-shadow: 2px 2px 2px black;
+   
 }
 .btn-primary{
     background-color: transparent;
