@@ -32,8 +32,10 @@ h1{
 .bot{
     text-align: center;
     font-family: 'VT323', monospace;
-    color: black;
+    color: white;
     text-shadow: 2px 2px 5px none;
+    font-size: larger;
+
 }
 
 .buttonpag7 {
