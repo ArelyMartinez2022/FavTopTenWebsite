@@ -56,17 +56,13 @@ img {
     width: 200px;
     padding-right: 2rem;
     border-radius: 12px;
-    
+    shape-image-threshold: 2px 2px 5px black;
 }
 
 .modal-body{
     padding: 2rem;
 }
 
-#staticBackdropLabel{
-    color: black;
-   font-size:large;
-}
 h3{
     font-family: 'VT323', monospace;
 }
@@ -149,8 +145,14 @@ body{
     padding: 3rem;
 }
 
+#staticBackdropLabel{
+    font-size: 60px;
+}
+
 .btn-secondary{
-    background-color: rgb(203, 203, 73);
+    background-color: black;
+    color: white;
+    font-size: larger;
 }
 
 
