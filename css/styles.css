@@ -5,6 +5,10 @@ h1{
     font-size: 90px;  
     text-shadow: 2px 2px 5px black;
 }
+.beginTitle{
+    text-decoration: underline ;
+    text-decoration-style: dashed; 
+}
 .mainPage {
     background: url(../assets/10998922.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -146,10 +150,6 @@ body{
     background-color: rgb(203, 203, 73);
 }
 
-.Textt{
-   
-
-}
 
 /*  ULISES  ULISES ULISES ULISES ULISES ULISES ULISES ULISES ULISES ULISES ULISES ULISES ULISES */
 .iframe-container{
